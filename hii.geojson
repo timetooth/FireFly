@@ -1,0 +1,2349 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in11"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18850624114435,
+            28.62603294053413
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in8"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18759556466176,
+            28.626610545025727
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "level",
+          "level": "0"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.1852026564735,
+                28.625590827053898
+              ],
+              [
+                77.18537661280658,
+                28.624235578619505
+              ],
+              [
+                77.18688539573282,
+                28.623294709474223
+              ],
+              [
+                77.1875719613098,
+                28.624136392511204
+              ],
+              [
+                77.18910540748584,
+                28.623166505086715
+              ],
+              [
+                77.19279187517344,
+                28.62764989528125
+              ],
+              [
+                77.19124686478818,
+                28.628608010592544
+              ],
+              [
+                77.19071515229376,
+                28.629364476591533
+              ],
+              [
+                77.1904478314214,
+                28.630224336650585
+              ],
+              [
+                77.18959527091874,
+                28.630840750444378
+              ],
+              [
+                77.1852026564735,
+                28.625590827053898
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in5"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18929181018075,
+            28.625430225099194
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0",
+          "amenity": "pharmacy",
+          "name": "Medkit"
+        },
+        "geometry": {
+          "coordinates": [
+            77.1888813032109,
+            28.625607733620726
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in1"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18931683063943,
+            28.627084928339073
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in9"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18849255986402,
+            28.62770975352528
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0",
+          "amenity": "pharmacy",
+          "name": "Medkit"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18771509804884,
+            28.628457941117716
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in10"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18972107983711,
+            28.629181500798964
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in15"
+        },
+        "geometry": {
+          "coordinates": [
+            77.19085975528583,
+            28.626378948264872
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in16"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18988433297488,
+            28.625263089837716
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "amenity": "parking",
+          "level": "0",
+          "name": "Fire exit 4"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18598874550594,
+            28.62623826566235
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0",
+          "amenity": "pharmacy",
+          "name": "Medkit"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18590249813525,
+            28.62630741999527
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0",
+          "amenity": "parking",
+          "name": "Fire exit 1"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18556315921688,
+            28.624211110729064
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "amenity": "parking",
+          "level": "0",
+          "name": "Fire exit 2"
+        },
+        "geometry": {
+          "coordinates": [
+            77.19131329734802,
+            28.626065998209413
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "amenity": "parking",
+          "level": "0",
+          "name": "Fire exit 3"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18808444587967,
+            28.623919936863828
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in6"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18820666218284,
+            28.62433328712102
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in7"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18658954737657,
+            28.625434256528308
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0",
+          "name": "inNew"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18674868138748,
+            28.625810940095548
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0",
+          "amenity": "toilets",
+          "name": "Building entrance"
+        },
+        "geometry": {
+          "coordinates": [
+            77.19080286023046,
+            28.629063543427392
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "supermarket",
+          "level": "0",
+          "name": "Trends"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18896325306093,
+                28.627754475652125
+              ],
+              [
+                77.18993502782803,
+                28.62706915344387
+              ],
+              [
+                77.1908361766022,
+                28.628062252278724
+              ],
+              [
+                77.18980321686769,
+                28.628732305721
+              ],
+              [
+                77.18896325306093,
+                28.627754475652125
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0",
+          "amenity": "pharmacy",
+          "name": "Medkit"
+        },
+        "geometry": {
+          "coordinates": [
+            77.19254043931807,
+            28.627602588791746
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in12"
+        },
+        "geometry": {
+          "coordinates": [
+            77.19035666069993,
+            28.62870042640327
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in13"
+        },
+        "geometry": {
+          "coordinates": [
+            77.19113220898237,
+            28.6281523727167
+          ],
+          "type": "Point"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in14"
+        },
+        "geometry": {
+          "coordinates": [
+            77.19189264504871,
+            28.627734597839876
+          ],
+          "type": "Point"
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "electronics",
+          "level": "0",
+          "name": "Reliance Digital"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.19027240876653,
+                28.626898076382062
+              ],
+              [
+                77.1905879302065,
+                28.6266922642382
+              ],
+              [
+                77.1898878521502,
+                28.625832291119565
+              ],
+              [
+                77.1901063979542,
+                28.62569141767915
+              ],
+              [
+                77.19126092541302,
+                28.627065289784966
+              ],
+              [
+                77.19073983155312,
+                28.627415596385276
+              ],
+              [
+                77.19027240876653,
+                28.626898076382062
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "amenity": "entertainment",
+          "level": "0",
+          "name": "PVR"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18527415934068,
+                28.625565980945936
+              ],
+              [
+                77.18543367981925,
+                28.624264335620794
+              ],
+              [
+                77.18625812359039,
+                28.625344676890492
+              ],
+              [
+                77.18658663485422,
+                28.62576752568374
+              ],
+              [
+                77.18582379391177,
+                28.626237627394545
+              ],
+              [
+                77.18527415934068,
+                28.625565980945936
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "amenity": "food_court",
+          "level": "0",
+          "name": "Food Court"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18572902019366,
+                28.62414419566393
+              ],
+              [
+                77.1868518560675,
+                28.623426832025984
+              ],
+              [
+                77.18769107117345,
+                28.62445933480521
+              ],
+              [
+                77.18657922961984,
+                28.625211996363504
+              ],
+              [
+                77.18572902019366,
+                28.62414419566393
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "amenity": "restaurant",
+          "level": "0",
+          "name": "Olios"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18819846986014,
+                28.62380445459513
+              ],
+              [
+                77.18907512421072,
+                28.62326373861856
+              ],
+              [
+                77.18976930899481,
+                28.624079956599275
+              ],
+              [
+                77.19021429668499,
+                28.624608120050922
+              ],
+              [
+                77.18933015990928,
+                28.625174482474364
+              ],
+              [
+                77.18819846986014,
+                28.62380445459513
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "amenity": "bar",
+          "level": "0",
+          "name": "Brewed"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.1898431231217,
+                28.624909671783243
+              ],
+              [
+                77.19023917730169,
+                28.624648381224475
+              ],
+              [
+                77.19075716109353,
+                28.62525631392593
+              ],
+              [
+                77.19035134349991,
+                28.625501662011544
+              ],
+              [
+                77.1898431231217,
+                28.624909671783243
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "clothes",
+          "level": "0",
+          "name": "Pantaloons"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.1910532448918,
+                28.62640570511219
+              ],
+              [
+                77.19147493783106,
+                28.626120292739657
+              ],
+              [
+                77.19252425092344,
+                28.627403688964435
+              ],
+              [
+                77.19208579936736,
+                28.62767895784995
+              ],
+              [
+                77.1910532448918,
+                28.62640570511219
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "clothes",
+          "level": "0",
+          "name": "Calvin Klien"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18684771878281,
+                28.625473413467034
+              ],
+              [
+                77.1882192027536,
+                28.624588311152195
+              ],
+              [
+                77.18898606759791,
+                28.62548282130743
+              ],
+              [
+                77.18760357501486,
+                28.626384003720048
+              ],
+              [
+                77.18684771878281,
+                28.625473413467034
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "amenity": "fast_food",
+          "level": "0",
+          "name": "macdonalds"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.1878195479087,
+                28.626629329033506
+              ],
+              [
+                77.18845791693803,
+                28.62622240113481
+              ],
+              [
+                77.18903487637175,
+                28.626878614397896
+              ],
+              [
+                77.1883899989449,
+                28.627326767988777
+              ],
+              [
+                77.1878195479087,
+                28.626629329033506
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "clothes",
+          "level": "0",
+          "name": "MiniSo"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.1859903930428,
+                28.626397465028063
+              ],
+              [
+                77.18669927222078,
+                28.625910546110873
+              ],
+              [
+                77.18753345805794,
+                28.626878250574904
+              ],
+              [
+                77.1867964748534,
+                28.62738877120431
+              ],
+              [
+                77.1859903930428,
+                28.626397465028063
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "shoes",
+          "level": "0",
+          "name": "Nike"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18693104549351,
+                28.62748480447968
+              ],
+              [
+                77.18761745129802,
+                28.626979429788193
+              ],
+              [
+                77.18833804418301,
+                28.627850247170016
+              ],
+              [
+                77.18763936241123,
+                28.628352775846295
+              ],
+              [
+                77.18693104549351,
+                28.62748480447968
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "amenity": "fast_food",
+          "level": "0",
+          "name": "Kaventers"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18859539128812,
+                28.62843364806274
+              ],
+              [
+                77.1888256553271,
+                28.62828124095398
+              ],
+              [
+                77.18906970982692,
+                28.628569596568084
+              ],
+              [
+                77.18884248722628,
+                28.628722722297923
+              ],
+              [
+                77.18859539128812,
+                28.62843364806274
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "amenity": "fast_food",
+          "level": "0",
+          "name": "Chayos"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18850673601617,
+                28.62834489821205
+              ],
+              [
+                77.18836462737954,
+                28.628182631852113
+              ],
+              [
+                77.1886054904611,
+                28.628026526362717
+              ],
+              [
+                77.18875257574808,
+                28.628184988014937
+              ],
+              [
+                77.18850673601617,
+                28.62834489821205
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "clothes",
+          "level": "0",
+          "name": "Uni-Qlo"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18884841855208,
+                28.6299480690477
+              ],
+              [
+                77.18837780852789,
+                28.629384227211403
+              ],
+              [
+                77.18892274457471,
+                28.62901607097281
+              ],
+              [
+                77.1891307917308,
+                28.629254747739623
+              ],
+              [
+                77.18900029925788,
+                28.629335237810338
+              ],
+              [
+                77.18927737348491,
+                28.62966099274847
+              ],
+              [
+                77.18884841855208,
+                28.6299480690477
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "cosmetics",
+          "level": "0",
+          "name": "Sephora"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18826079960257,
+                28.629235320590325
+              ],
+              [
+                77.18771191148522,
+                28.628576232454833
+              ],
+              [
+                77.18826481370155,
+                28.62819370915838
+              ],
+              [
+                77.1888411152272,
+                28.62883871277303
+              ],
+              [
+                77.18826079960257,
+                28.629235320590325
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "amenity": "fast_food",
+          "level": "0",
+          "name": "Starbucks"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.19085935652424,
+                28.627506660025617
+              ],
+              [
+                77.19120299195333,
+                28.627506660025617
+              ],
+              [
+                77.19120299195333,
+                28.62782393660757
+              ],
+              [
+                77.19085935652424,
+                28.62782393660757
+              ],
+              [
+                77.19085935652424,
+                28.627506660025617
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "clothes",
+          "level": "0",
+          "name": "Zara"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18886611847029,
+                28.629970830642065
+              ],
+              [
+                77.18929439184444,
+                28.629681173193987
+              ],
+              [
+                77.18950174824772,
+                28.629927879304404
+              ],
+              [
+                77.18906946688088,
+                28.63021956325558
+              ],
+              [
+                77.18886611847029,
+                28.629970830642065
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "clothes",
+          "level": "0",
+          "name": "H&M"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18959711316216,
+                28.63083893992237
+              ],
+              [
+                77.1891507368922,
+                28.630304882843788
+              ],
+              [
+                77.18958377740029,
+                28.63001987567759
+              ],
+              [
+                77.19001183466582,
+                28.63053805797766
+              ],
+              [
+                77.18959711316216,
+                28.63083893992237
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "clothes",
+          "level": "0",
+          "name": "aldo"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.1907818802037,
+                28.625293268806118
+              ],
+              [
+                77.19131827630179,
+                28.625925791450285
+              ],
+              [
+                77.19087501537729,
+                28.626229215956755
+              ],
+              [
+                77.19033383552181,
+                28.625563004801705
+              ],
+              [
+                77.1907818802037,
+                28.625293268806118
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "room",
+          "shop": "restaurant",
+          "level": "0",
+          "name": "Kryspy Kreme"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                77.18875669993173,
+                28.626099158723903
+              ],
+              [
+                77.18916626004813,
+                28.625791719332952
+              ],
+              [
+                77.18968729331004,
+                28.626427029562734
+              ],
+              [
+                77.18927346873016,
+                28.626727413554207
+              ],
+              [
+                77.18875669993173,
+                28.626099158723903
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 43
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.19078737381221,
+              28.629069406774533
+            ],
+            [
+              77.19020559893028,
+              28.628379457826398
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in2"
+        },
+        "geometry": {
+          "coordinates": [
+            77.19017212991531,
+            28.62656554937223
+          ],
+          "type": "Point"
+        },
+        "id": 45
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in3"
+        },
+        "geometry": {
+          "coordinates": [
+            77.1900724400507,
+            28.626967243839786
+          ],
+          "type": "Point"
+        },
+        "id": 46
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "level": "0",
+          "indoor": "yes",
+          "name": "in4"
+        },
+        "geometry": {
+          "coordinates": [
+            77.19062220876901,
+            28.62762183313974
+          ],
+          "type": "Point"
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.19031044148056,
+              28.628734649542068
+            ],
+            [
+              77.19077207343366,
+              28.62910515629052
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18964488231535,
+              28.629234538694263
+            ],
+            [
+              77.19003084173977,
+              28.62838439075898
+            ],
+            [
+              77.19031364278186,
+              28.62875006451233
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.1902616356395,
+              28.62874324698332
+            ],
+            [
+              77.19105876090606,
+              28.628212819647985
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.1910527306319,
+              28.62820771090128
+            ],
+            [
+              77.19179730688455,
+              28.62779674736339
+            ],
+            [
+              77.1924526970933,
+              28.627665151642063
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.19180200277424,
+              28.627777432101084
+            ],
+            [
+              77.19086081290374,
+              28.626383869187904
+            ],
+            [
+              77.18982431311065,
+              28.625318093800445
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.19076068295811,
+              28.62645488377025
+            ],
+            [
+              77.1911987557736,
+              28.62614360175256
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18920921609202,
+              28.62552458339104
+            ],
+            [
+              77.18977511108454,
+              28.625332627824847
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18919681366111,
+              28.625449825285514
+            ],
+            [
+              77.18809862297644,
+              28.624386690811605
+            ],
+            [
+              77.18799263400513,
+              28.623981560461104
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18842371638345,
+              28.626102497845864
+            ],
+            [
+              77.1892402746783,
+              28.627147639114867
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18961365635562,
+              28.629255532072378
+            ],
+            [
+              77.18840082310288,
+              28.627786240749103
+            ],
+            [
+              77.1874712223534,
+              28.62666858473557
+            ],
+            [
+              77.18650236839181,
+              28.625515263260766
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18544237135615,
+              28.624282727462813
+            ],
+            [
+              77.18650514416339,
+              28.62550490358977
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18650514416339,
+              28.62550490358977
+            ],
+            [
+              77.18808378383238,
+              28.624410827995916
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.1858773588325,
+              28.62633267578788
+            ],
+            [
+              77.18592329004366,
+              28.62627690412029
+            ],
+            [
+              77.18672142307548,
+              28.62583599825865
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18922854429997,
+              28.62715605439888
+            ],
+            [
+              77.18840420273307,
+              28.62777551589579
+            ],
+            [
+              77.18763551591178,
+              28.62851084767094
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18916441406719,
+              28.62547846441585
+            ],
+            [
+              77.18873756612453,
+              28.62568215823987
+            ],
+            [
+              77.18838678565328,
+              28.626104774818785
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18837288942393,
+              28.626098006170494
+            ],
+            [
+              77.18749429241626,
+              28.626694277121175
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18645167438558,
+              28.625468520954215
+            ],
+            [
+              77.18661923179275,
+              28.625881973247132
+            ],
+            [
+              77.18751589940467,
+              28.62668884998635
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.19100796646944,
+              28.628212349698074
+            ],
+            [
+              77.19049563065931,
+              28.62767581314607
+            ],
+            [
+              77.18993835746636,
+              28.62699438908453
+            ],
+            [
+              77.1900537986673,
+              28.626618552237048
+            ],
+            [
+              77.18918259789461,
+              28.62551298447542
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18922745317184,
+              28.627152722879842
+            ],
+            [
+              77.18999917482626,
+              28.626614022316275
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18918259492852,
+              28.6271497958558
+            ],
+            [
+              77.18995272789107,
+              28.62704554130279
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.1864778547963,
+              28.625487181042615
+            ],
+            [
+              77.18636774614322,
+              28.624829697594066
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0"
+        },
+        "geometry": {
+          "coordinates": [
+            77.18591924176428,
+            28.62629853852681
+          ],
+          "type": "Point"
+        },
+        "id": 69
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18587317896487,
+              28.6262907355527
+            ],
+            [
+              77.1862275128056,
+              28.625932576781608
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18747422982,
+              28.62668272681887
+            ],
+            [
+              77.18715929522068,
+              28.62685594085785
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18837911787767,
+              28.62778350724726
+            ],
+            [
+              77.18805313505845,
+              28.62762472826705
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18841434353635,
+              28.62610998442466
+            ],
+            [
+              77.18816664482938,
+              28.62583963512816
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18837845629429,
+              28.62609930876158
+            ],
+            [
+              77.18824801087544,
+              28.62653249700844
+            ],
+            [
+              77.1884229074306,
+              28.626709546156548
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "indoor": "yes",
+          "level": "0"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18880310522644,
+              28.625655365649152
+            ],
+            [
+              77.1890840475416,
+              28.626008599198116
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.1881033261302,
+              28.62443228713579
+            ],
+            [
+              77.18866360794448,
+              28.624056918310032
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18977684008331,
+              28.625373941838603
+            ],
+            [
+              77.1901665670598,
+              28.6251184505051
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.19073487891967,
+              28.62647939975392
+            ],
+            [
+              77.19074262788496,
+              28.625937118512113
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.1907441261838,
+              28.6264873991405
+            ],
+            [
+              77.19074541358685,
+              28.626674447294434
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.19179782242963,
+              28.627820439467143
+            ],
+            [
+              77.19185028610212,
+              28.62730570342491
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.19241571753281,
+              28.627678532332496
+            ],
+            [
+              77.19223695529621,
+              28.627419670439124
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.19051362119177,
+              28.627715136930377
+            ],
+            [
+              77.19028950846518,
+              28.62786527938978
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18841531259517,
+              28.627831062491026
+            ],
+            [
+              77.18853661435332,
+              28.62816347585779
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18840313995366,
+              28.627791950169154
+            ],
+            [
+              77.18910211507864,
+              28.628411069636158
+            ],
+            [
+              77.18889348985749,
+              28.628550835449374
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18837524342138,
+              28.62779092076046
+            ],
+            [
+              77.18824772778254,
+              28.628083475830394
+            ],
+            [
+              77.18865266857347,
+              28.62856166096232
+            ],
+            [
+              77.18844204264235,
+              28.62875863632202
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18965094609729,
+              28.629293700852017
+            ],
+            [
+              77.18919554793268,
+              28.629036007396138
+            ],
+            [
+              77.18886340375792,
+              28.629250345780505
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.189592083136,
+              28.62928135392022
+            ],
+            [
+              77.18964898338334,
+              28.62968064808146
+            ],
+            [
+              77.18927987001325,
+              28.629900674713667
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18965027364874,
+              28.629275074090287
+            ],
+            [
+              77.19006731848742,
+              28.630088533468708
+            ],
+            [
+              77.18960127042567,
+              28.63041846559878
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18960783101386,
+              28.629276254555293
+            ],
+            [
+              77.18960020712808,
+              28.62994770122515
+            ],
+            [
+              77.1893255810196,
+              28.630137131361693
+            ],
+            [
+              77.18943572229188,
+              28.630245939829223
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.19055414789227,
+              28.62769359441863
+            ],
+            [
+              77.19102105492016,
+              28.627673879310095
+            ],
+            [
+              77.19106022048328,
+              28.628227909561943
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18844016051077,
+              28.626086628999943
+            ],
+            [
+              77.18815523130382,
+              28.62577071085279
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.18650300127365,
+              28.625502457706247
+            ],
+            [
+              77.1861803524904,
+              28.62567688873932
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.1901045507816,
+              28.626612850750476
+            ],
+            [
+              77.19055575285029,
+              28.626927966801645
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              77.19009564995895,
+              28.626658556911153
+            ],
+            [
+              77.18965616421502,
+              28.62624738293168
+            ],
+            [
+              77.18941799528153,
+              28.62638790256115
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+      "properties": {
+          "highway": "footway",
+          "level": "0",
+          "indoor": "yes"
+      },      "geometry": {
+          "coordinates": [
+            [
+              77.18839693040735,
+              28.627787302144938
+            ],
+            [
+              77.18808890615179,
+              28.6274774199413
+            ],
+            [
+              77.18787119973712,
+              28.6276137500422
+            ]
+          ],
+          "type": "LineString"
+        }
+      }
+    ]
+  }

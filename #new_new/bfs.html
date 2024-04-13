@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fire Spread Simulation with Simulated Annealing</title>
+  <style>
+    .cell {
+      width: 20px;
+      height: 20px;
+      border: 1px solid black;
+      display: inline-block;
+    }
+    .on-fire {
+      background-color: red;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <button onclick="startSimulation()">Start Simulation</button>
+  <button onclick="stopSimulation()">Stop Simulation</button>
+  <script>
+    const mapWidth = 20;
+    const mapHeight = 20;
+    let fireSpreadInterval;
+    let temperature = 1.0; // Initial temperature
+    const coolingRate = 0.99; // Cooling rate
+
+    // Initialize the map with random initial fire cells and TTI values
+    let map = [];
+    let ttiMatrix = [];
+    for (let i = 0; i < mapHeight; i++) {
+      map.push([]);
+      ttiMatrix.push([]);
+      for (let j = 0; j < mapWidth; j++) {
+        map[i].push(Math.random() < 0.05); // 5% chance of a cell being on fire initially
+        ttiMatrix[i].push(Math.random() * 10); // Random TTI value between 0 and 10
+      }
+    }
+
+    function renderMap() {
+      const mapContainer = document.getElementById('map');
+      mapContainer.innerHTML = '';
+      map.forEach(row => {
+        row.forEach(cell => {
+          const cellElement = document.createElement('div');
+          cellElement.className = 'cell' + (cell ? ' on-fire' : '');
+          mapContainer.appendChild(cellElement);
+        });
+        mapContainer.appendChild(document.createElement('br'));
+      });
+    }
+
+    function calculateSpreadProbability(tti) {
+      // Example inverse relation with clamp between 0.01 and 1.0
+      return Math.max(0.01, Math.min(1.0, 1 / tti));
+    }
+
+    function simulateFireSpread() {
+      const newMap = map.map(row => [...row]);
+      let avgTTI = 0;
+      let steps = 0;
+
+      for (let x = 0; x < mapHeight; x++) {
+        for (let y = 0; y < mapWidth; y++) {
+          if (!map[x][y]) { // Cell is not on fire
+            let fireNearby = [
+              { dx: -1, dy: 0 }, { dx: 1, dy: 0 },
+              { dx: 0, dy: -1 }, { dx: 0, dy: 1 }
+            ].some(({ dx, dy }) => {
+              const nx = x + dx, ny = y + dy;
+              return nx >= 0 && nx < mapHeight && ny >= 0 && ny < mapWidth && map[nx][ny];
+            });
+
+            if (fireNearby) {
+              let spreadProbability = calculateSpreadProbability(ttiMatrix[x][y]);
+              let acceptanceProbability = Math.exp((spreadProbability - 1) / temperature);
+
+              if (Math.random() < acceptanceProbability) {
+                newMap[x][y] = true; // Spread fire
+                avgTTI += spreadProbability;
+                steps += 1;
+              }
+            }
+          }
+        }
+      }
+
+      map = newMap;
+      temperature *= coolingRate; // Cool down temperature
+      renderMap();
+    }
+
+    function startSimulation() {
+      fireSpreadInterval = setInterval(simulateFireSpread, 1000); // Run simulation every second
+    }
+
+    function stopSimulation() {
+      clearInterval(fireSpreadInterval);
+    }
+
+    renderMap(); // Initial rendering
+  </script>
+</body>
+</html>
